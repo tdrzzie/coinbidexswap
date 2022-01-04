@@ -59,22 +59,6 @@
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x55d398326f99059ff775485246999027b3197955.png"
     },
     {
-      "name": "Binance-Peg USD Coin",
-      "symbol": "USDC",
-      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png"
-    },
-    {
-      "name": "Polkadot Token",
-      "symbol": "DOT",
-      "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x7083609fce4d1d8dc0c979aab8c869ea2c873402.png"
-    },
-    {
       "name": "The Flight",
       "symbol": "FLGHT",
       "address": "0x1e5ea229e29e12d65c3c0b7fcf4bc0c502ce60a8",
