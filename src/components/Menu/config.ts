@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://mozartfinance.io/',
+    href: 'http://sniperswap.com/',
   },
   {
     label: 'Trade',
@@ -20,6 +20,7 @@ const config: MenuEntry[] = [
       },
     ],
   },
+  /*
   {
     label: 'Farms',
     icon: 'FarmIcon',
@@ -52,7 +53,7 @@ const config: MenuEntry[] = [
     label: 'Audit by IB',
     icon: 'TicketIcon',
     href: 'https://github.com/ImmuneBytes/Smart-Contract-Audit-Reports/blob/main/Mozart%20Finance/Mozart%20Finance%20(PIANO)%20-%20Final%20Audit%20Report.pdf',
-  },
+  }, */
 ]
 
 export default config
