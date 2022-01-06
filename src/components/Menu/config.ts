@@ -20,12 +20,12 @@ const config: MenuEntry[] = [
       },
     ],
   },
-  /*
   {
-    label: 'Farms',
-    icon: 'FarmIcon',
-    href: 'https://mozartfinance.io/farms',
+    label: 'Premium Listing',
+    icon: 'TicketIcon',
+    href: 'https://forms.gle/5J1K67N4TvrxUNKz9',
   },
+  /*
   {
     label: 'Pools',
     icon: 'PoolIcon',
