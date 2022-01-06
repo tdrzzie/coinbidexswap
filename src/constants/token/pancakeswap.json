@@ -35,12 +35,12 @@
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
     },
     {
-      "name": "PancakeSwap Token",
-      "symbol": "CAKE",
-      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "name": "Floki Inu",
+      "symbol": "FLOKI",
+      "address": "0x2b3f34e9d4b127797ce6244ea341a83733ddd6e4",
       "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png"
+      "decimals": 9,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10804.png"
     },
     {
       "name": "BUSD Token",
