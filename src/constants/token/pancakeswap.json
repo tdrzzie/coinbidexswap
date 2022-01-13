@@ -107,6 +107,14 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9200.png"
     },
     {
+      "name": "Casa Token",
+      "symbol": "CASA",
+      "address": "0x0fD2617e1a83e2f1D601CF445a78EAAF195a03B6",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "http://sniperswap.com/img/casa.png"
+    },
+    {
       "name": "The Flight",
       "symbol": "FLGHT",
       "address": "0x1e5ea229e29e12d65c3c0b7fcf4bc0c502ce60a8",
