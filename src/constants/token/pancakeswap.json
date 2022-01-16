@@ -59,62 +59,6 @@
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x55d398326f99059ff775485246999027b3197955.png"
     },
     {
-      "name": "SafeMoon Zilla",
-      "symbol": "SFZ",
-      "address": "0x91656750bc364ff38adb51157acbb76f9f5ec2fe",
-      "chainId": 56,
-      "decimals": 9,
-      "logoURI": "https://sniperswap.com/img/sfz.png"
-    },
-    {
-      "name": "Farm Planet",
-      "symbol": "FPL",
-      "address": "0xe5e29fc606a3002dec5663568bd6739ac0a6d41c",
-      "chainId": 56,
-      "decimals": 9,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15372.png"
-    },
-    {
-      "name": "Dark Frontiers",
-      "symbol": "DARK",
-      "address": "0x12fc07081fab7de60987cad8e8dc407b606fb2f8",
-      "chainId": 56,
-      "decimals": 8,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12487.png"
-    },
-    {
-      "name": "Empire Warriors",
-      "symbol": "EMP",
-      "address": "0xF4bEEB8e6217E0Be32F648B16bfa647Ad2c57fE1",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15503.png"
-    },
-    {
-      "name": "Drachen Lord",
-      "symbol": "DRAG",
-      "address": "0x239d4e702667F106950ab897Ba17802b2D15cC3f",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15491.png"
-    },
-    {
-      "name": "Revomon",
-      "symbol": "REVO",
-      "address": "0x155040625D7ae3e9caDA9a73E3E44f76D3Ed1409",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9200.png"
-    },
-    {
-      "name": "Casa Token",
-      "symbol": "CASA",
-      "address": "0x0fD2617e1a83e2f1D601CF445a78EAAF195a03B6",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "http://sniperswap.com/img/casa.png"
-    },
-    {
       "name": "The Flight",
       "symbol": "FLGHT",
       "address": "0x1e5ea229e29e12d65c3c0b7fcf4bc0c502ce60a8",
