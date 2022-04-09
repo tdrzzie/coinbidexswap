@@ -21,9 +21,9 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Premium Listing',
+    label: 'Create BEP20 Token',
     icon: 'TicketIcon',
-    href: 'https://forms.gle/5J1K67N4TvrxUNKz9',
+    href: 'https://forms.gle/Na1Vv7Y8bpYMP9p9A',
   },
   /*
   {
