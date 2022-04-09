@@ -59,14 +59,6 @@
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x55d398326f99059ff775485246999027b3197955.png"
     },
     {
-      "name": "MemeSwap Token",
-      "symbol": "MESP",
-      "address": "0x8908c118a8eada22fafe7f746e9751586c24bb1d",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://memeswap.exchange/img/logo96.png"
-    },
-    {
       "name": "The Flight",
       "symbol": "FLGHT",
       "address": "0x1e5ea229e29e12d65c3c0b7fcf4bc0c502ce60a8",
