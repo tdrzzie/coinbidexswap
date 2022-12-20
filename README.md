@@ -6,6 +6,10 @@ Install the dependencies
 yarn
 yarn start
 ```
+NB If you run any error while running yarn
+```shell
+git config --global http.proxy ""
+```
 ## Tests
 
 Firstly, if you need to install cypress
